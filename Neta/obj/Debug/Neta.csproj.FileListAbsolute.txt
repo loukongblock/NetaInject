@@ -1,0 +1,16 @@
+C:\Users\wdwds\Documents\GitHub\Neta\bin\Debug\Neta.exe.config
+C:\Users\wdwds\Documents\GitHub\Neta\bin\Debug\Neta.exe
+C:\Users\wdwds\Documents\GitHub\Neta\bin\Debug\Neta.pdb
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta.csproj.AssemblyReference.cache
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\MainWindow.baml
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\MainWindow.g.cs
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\App.g.cs
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta_MarkupCompile.cache
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta_MarkupCompile.lref
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\App.baml
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta.g.resources
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta.Properties.Resources.resources
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta.csproj.GenerateResource.cache
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta.csproj.CoreCompileInputs.cache
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta.exe
+C:\Users\wdwds\Documents\GitHub\Neta\obj\Debug\Neta.pdb
