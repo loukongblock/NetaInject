@@ -597,7 +597,7 @@ namespace Neta
                     try { File.Delete(tempZipPath); } catch { }
                 }
 
-                // 字体复制逻辑保持不变 ...
+                // 字体复制逻辑
                 try
                 {
                     string fontsDir = Path.Combine("D:\\", "NetaLib", "fonts");
@@ -615,7 +615,7 @@ namespace Neta
                 if (!File.Exists(coreDllPath))
                     throw new FileNotFoundException("Core.dll 未在压缩包中找到");
 
-                // ← 关键修改：把 PID 作为参数传给 Run
+                //把 PID 作为参数传给 Run
                 Process proc = Process.Start(new ProcessStartInfo("rundll32.exe",
                     string.Format("\"{0}\",Run {1}", coreDllPath, targetPid))
                 {
@@ -627,7 +627,7 @@ namespace Neta
                 if (proc != null)
                     proc.WaitForExit();
 
-                // 清理逻辑保持不变 ...
+                //清理逻辑
                 string dirToClean = tempDir;
                 Task.Run(() =>
                 {
